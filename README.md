@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
-</div>
  <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hello!
@@ -10,6 +7,10 @@
 </h1>
 <div>
 <p>I'm Marie-Grâce, a remote software developer. I'm passionate about coding, problem-solving, and collaborating with global peers to build innovative solutions. Always eager to learn and grow, I focus on mastering new technologies. Open to new opportunities☺. If you have a project in mind, a question, or a suggestion, don't hesitate to reach out to me .</p>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
 </div>
 
 <h2>Connect with me🤝</h2>
