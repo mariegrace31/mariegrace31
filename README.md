@@ -23,9 +23,8 @@
 ### :woman_technologist: About Me :
 - 🌱 I’m currently learning software development at <a href="https://www.microverse.org/">Microverse</a>.
 - 👯 I’m looking to collaborate on web projects.
-- 👨‍💻 All of my projects are available on [my portfolio](https://mariegrace31.github.io/portfolio_project/).
-- 📫 How to reach me: [mariegracebmg@gmail.com](mailto:mariegracebmg@bmg.com).📧
-- 😄 Pronouns: HER/SHE
+- 👨‍💻 All my projects are available on [my portfolio](https://mariegrace31.github.io/portfolio_project/).
+- 📫 How to reach me: [mariegracebmg@gmail.com](mailto:mariegracebmg@bmg.com)📧
 - ⚡ Fun fact: I always have a coding playlist ready!🎵
 
 <h2> :hammer_and_wrench: Languages and Tools :</h2>
