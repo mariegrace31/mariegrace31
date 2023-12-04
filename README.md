@@ -21,7 +21,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- 🌱 I’m currently learning software development at <a href="https://www.microverse.org/">Microverse</a>.
+- 🌱 Successfully completed the Full Stack Web development at <a href="https://www.microverse.org/">Microverse</a>.
 - 👯 I’m looking to collaborate on web projects.
 - 👨‍💻 All my projects are available on [my portfolio](https://mariegrace31.github.io/portfolio_project/).
 - 📫 How to reach me: [mariegracebmg@gmail.com](mailto:mariegracebmg@bmg.com)📧
