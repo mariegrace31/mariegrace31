@@ -20,7 +20,7 @@
 <a href="https://medium.com/@mariegracebmg"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 </div>
 
-### :woman_technologist: About Me :
+About Me :
 - 🌱 Successfully completed the Full Stack Web development at <a href="https://www.microverse.org/">Microverse</a>.
 - 👯 I’m looking to collaborate on web projects.
 - 👨‍💻 All my projects are available on [my portfolio](https://mariegrace31.github.io/portfolio_project/).
