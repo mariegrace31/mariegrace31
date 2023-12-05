@@ -20,14 +20,14 @@
 <a href="https://medium.com/@mariegracebmg"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 </div>
 
-<h2>About Me :</h2>
-- 🌱 Successfully completed the Full Stack Web development at <a href="https://www.microverse.org/">Microverse</a>.
-- 👯 I’m looking to collaborate on web projects.
-- 👨‍💻 All my projects are available on [my portfolio](https://mariegrace31.github.io/portfolio_project/).
-- 📫 How to reach me: [mariegracebmg@gmail.com](mailto:mariegracebmg@bmg.com)📧
+<h2>👩‍💻About Me :</h2>
+- 🌱 Successfully completed the Full Stack Web development at <a href="https://www.microverse.org/">Microverse</a>. <br>
+- 👯 I’m looking to collaborate on web projects.<br>
+- 👨‍💻 All my projects are available on [my portfolio](https://mariegrace31.github.io/portfolio_project/).<br>
+- 📫 How to reach me: [mariegracebmg@gmail.com](mailto:mariegracebmg@bmg.com)📧<br>
 - ⚡ Fun fact: I always have a coding playlist ready!🎵
 
-<h2> :hammer_and_wrench: Languages and Tools :</h2>
+<h2>🛠 Languages and Tools :</h2>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
