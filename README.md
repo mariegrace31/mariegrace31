@@ -23,7 +23,7 @@
 <h2>👩‍💻About Me :</h2>
 - 🌱 Successfully completed the Full Stack Web development at <a href="https://www.microverse.org/">Microverse</a>. <br>
 - 👯 I’m looking to collaborate on web projects.<br>
-- 👨‍💻 All my projects are available on my <a href="https://mariegrace31.github.io/portfolio_project/">portfolio</a>. <br>
+- 👨‍💻 All my projects are available on my <a href="https://mariegrace.netlify.app/">portfolio</a>. <br>
 - 📫 How to reach me: <a href="mailto:mariegracebmg@bmg.com">mariegracebmg@gmail.com</a>📧 <br>
 - ⚡ Fun fact: I always have a coding playlist ready!🎵
 
