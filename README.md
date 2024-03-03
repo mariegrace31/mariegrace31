@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=mariegrace31&style=flat-square&color=blueviolet" alt="profile"/>
 </h1>
 <div>
-<p>I'm Marie-Grâce, a remote software developer. I'm passionate about coding, problem-solving, and collaborating with global peers to build innovative solutions. Always eager to learn and grow, I focus on mastering new technologies. Open to new opportunities☺. If you have a project in mind, a question, or a suggestion, don't hesitate to reach out to me .</p>
+<p>I'm Marie-Grâce, a remote software developer. I'm passionate about coding, problem-solving, and collaborating with global peers to build innovative solutions. Always eager to learn and grow, I focus on mastering new technologies. If you have a project in mind, a question, or a suggestion, don't hesitate to reach out to me .</p>
 </div>
 
 <div id="header" >
