@@ -1,7 +1,6 @@
  <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi Devs!
-  Welcome to my world.💻
+  Hi Devs!💻
     
 <img src="https://komarev.com/ghpvc/?username=mariegrace31&style=flat-square&color=blueviolet" alt="profile"/>
 </h1>
