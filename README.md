@@ -1,8 +1,6 @@
  <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hi Devs!💻
-    
-<img src="https://komarev.com/ghpvc/?username=mariegrace31&style=flat-square&color=blueviolet" alt="profile"/>
 </h1>
 <div>
 <p>I'm Marie-Grâce, a remote software developer. I'm passionate about coding, problem-solving, and collaborating with global peers to build innovative solutions. Always eager to learn and grow, I focus on mastering new technologies. If you have a project in mind, a question, or a suggestion, don't hesitate to reach out to me .</p>
@@ -73,3 +71,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariegrace31&" alt="mariegrace31" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariegrace31&show_icons=true&locale=en&layout=compact" alt="mariegrace31" /></p>
+<img src="https://komarev.com/ghpvc/?username=mariegrace31&style=flat-square&color=blueviolet" alt="profile"/>
